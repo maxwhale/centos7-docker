@@ -6,7 +6,7 @@
 # DATE                10/31/2016
 #
 
-FROM centos:7.2
+FROM centos:latest
 MAINTAINER Max
 
 ENV TZ "Asia/Shanghai"
