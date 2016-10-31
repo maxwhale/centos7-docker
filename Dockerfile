@@ -1,6 +1,6 @@
 #
 # MAINTAINER          Max
-# DOCKER-VERSION      2.00
+# DOCKER-VERSION      2.0
 # CENTOS-VERSION      7
 # Dockerfile-VERSION  2.0
 # DATE                10/31/2016
