@@ -1,12 +1,12 @@
 #
 # MAINTAINER          Max
-# DOCKER-VERSION      1.10
+# DOCKER-VERSION      2.00
 # CENTOS-VERSION      7
-# Dockerfile-VERSION  1.0
-# DATE                02/23/2016
+# Dockerfile-VERSION  2.0
+# DATE                10/31/2016
 #
 
-FROM centos:7
+FROM centos:7.2
 MAINTAINER Max
 
 ENV TZ "Asia/Shanghai"
